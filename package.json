@@ -9,7 +9,8 @@
   "author": "DV",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.3",
-    "mongoose": "^5.0.10"
+    "mongoose": "^4.13.7"
   }
 }
